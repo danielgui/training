@@ -1,0 +1,26 @@
+<annotation>
+	<folder>edited_images</folder>
+	<filename>646f9860-a66a-4002-b533-934197616264_sq.jpg</filename>
+	<path>C:\Me\images_edition\edited_images\646f9860-a66a-4002-b533-934197616264_sq.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>base</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>4</ymin>
+			<xmax>296</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>
