@@ -1,0 +1,26 @@
+<annotation>
+	<folder>edited_images_test</folder>
+	<filename>IMG_20190318_154501_rz.jpg</filename>
+	<path>C:\Me\images_edition\edited_images_test\IMG_20190318_154501_rz.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maiz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>153</ymin>
+			<xmax>170</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>

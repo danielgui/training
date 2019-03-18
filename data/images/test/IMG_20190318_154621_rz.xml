@@ -1,0 +1,26 @@
+<annotation>
+	<folder>edited_images_test</folder>
+	<filename>IMG_20190318_154621_rz.jpg</filename>
+	<path>C:\Me\images_edition\edited_images_test\IMG_20190318_154621_rz.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trigo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>134</ymin>
+			<xmax>146</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>

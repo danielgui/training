@@ -1,0 +1,26 @@
+<annotation>
+	<folder>edited_images</folder>
+	<filename>IMG_20190318_140536_rz.jpg</filename>
+	<path>C:\Me\images_edition\edited_images\IMG_20190318_140536_rz.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>girasol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>113</ymin>
+			<xmax>176</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>
